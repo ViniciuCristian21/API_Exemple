@@ -1,0 +1,15 @@
+Metodos HTTP
+GET:
+a API fornece informações.
+
+POST:
+a API recebe informaçoes que devem ou não ser registradas.
+
+DLETE:
+a API recebe indentificadores de registros que devem ser apagados.
+
+PUT:
+a API recebe informações para update de um ou mais registros.
+
+PATCH:
+a API recebe informações para update de um registro.
